@@ -1,0 +1,1 @@
+I like to run code so that I can examine its effects upon other code that is also run at the same time. Children can be created by forking programs which allows the program to run different code per children. Sometimes it is a good idea to examine the code to prevent errors.
